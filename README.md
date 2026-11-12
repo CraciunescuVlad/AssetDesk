@@ -8,7 +8,7 @@ Aplicație web pentru evidența echipamentelor IT într-o firmă de dimensiuni m
 |---|---|
 | [Cerințe](docs/requirements.md) | cerințele funcționale și nefuncționale, prioritizate |
 | [Scenarii de utilizare](docs/use-cases.md) | cazurile de utilizare principale|
-| [Wireframe-uri](docs/wireframes/) | ecranele principale și fluxurile de navigare |
+| [Wireframe-uri](docs/wireframes-2.md/) | ecranele principale și fluxurile de navigare |
 | [Arhitectură](docs/architecture.md) | componentele aplicației și comunicarea dintre ele |
 | [Modelul de date](docs/data-model.md) | entitățile și relațiile preliminare|
 | [Plan de implementare](docs/implementation-plan.md) | tehnologii, versionare, etape și responsabilități |
