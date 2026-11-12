@@ -1,6 +1,6 @@
 # Wireframe-uri
 
-[← Înapoi la README](../../README.md)
+[← Înapoi la README](../README.md)
 
 Mai jos sunt schițele ecranelor principale și câteva note despre cum am gândit navigarea. Nu toate ecranele sunt la fel de detaliate unele sunt destul de simple și nu aveau nevoie de mult.
 
