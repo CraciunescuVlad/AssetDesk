@@ -1,5 +1,7 @@
 ## De ce am ales aceste tehnologii
 
+[← Înapoi la README](../README.md)
+
 | Tehnologie | De ce am ales-o |
 |---|---|
 | **Java 21 + Spring Boot 3 + Maven** | Spring Boot vine cu tot ce ne trebuie pentru un API: securitate, validare și acces la baza de date |
